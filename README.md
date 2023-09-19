@@ -1,5 +1,3 @@
-# docker-getting-started-2023
-
 # Getting Started with Docker
 *by Nigel Poulton*
 
